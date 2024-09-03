@@ -11,7 +11,7 @@ En este análisis exploratorio de datos me enfocaré en el panorama de los festi
 
 Para ello:<br>
 * analizaré los primeros 50 festivales de cada año en función del número de asistentes
-* los estudiaré según ámbito artístico, titularidad pública o privada, entrada gratuita o de pagp, número de ediciones, més y época del año
+* los estudiaré según ámbito artístico, titularidad pública o privada, entrada gratuita o de pago, número de ediciones, més y época del año
 
 Además, estudiaré la posible relación entre estas variables, año por año y en la década en conjunto, atendiendo a peculiaridades, elementos comunes, tendencias y excepciones.
 
