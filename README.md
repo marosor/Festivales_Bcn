@@ -15,11 +15,11 @@ En este análisis exploratorio de datos me he enfocado en el panorama de los fes
 
 Para ello:<br>
 * he analizado los primeros 50 festivales de cada año en función del número de asistentes
-* los he estudiado según ámbito artístico, titularidad pública o privada, entrada gratuita o de pago, número de ediciones, més y época del año
+* los he estudiado según ámbito artístico, titularidad pública o privada, entrada gratuita o de pago, número de ediciones, mes y época del año
 
-Además, he obserbado la posible relación entre estas variables, año por año y en la década en conjunto, atendiendo a peculiaridades, elementos comunes, tendencias y excepciones.
+Además, he observado la posible relación entre estas variables, año por año y en la década en conjunto, atendiendo a peculiaridades, elementos comunes, tendencias y excepciones.
 
-La estructurade archivos que componen dicho análisis consta, entre otros, de:
+La estructura de archivos que componen dicho análisis consta, entre otros, de:
 ##### Carpeta data
 * Archivos originales en formato csv, uno por cada año del festival
 * Archivos csv procesados listos para analizar
