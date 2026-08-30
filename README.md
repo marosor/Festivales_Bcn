@@ -340,7 +340,7 @@ Documentación adicional del proyecto.
 
 ### Presentación
 
-[Presentación del proyecto](docs/)
+[Presentacion_Como_cuanto_festivalea_Barcelona.pptx](docs/Presentacion_Como_cuanto_festivalea_Barcelona.pptx)
 
 Presentación de los principales resultados del EDA.
 
